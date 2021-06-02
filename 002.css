@@ -12,6 +12,7 @@ body{
 }
 .bg-img{
     background-image: url(5期生バンド.jpg);
+    width: 2000px;
     height: 100%;
     width: 100%;
     background-size: cover;
